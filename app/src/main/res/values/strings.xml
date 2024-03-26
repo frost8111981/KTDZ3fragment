@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KTDZ3fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Task">Задачи</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="out">Выйти</string>
+</resources>
